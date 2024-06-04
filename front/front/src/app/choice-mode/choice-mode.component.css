@@ -1,0 +1,11 @@
+table {
+ border-collapse: collapse; /* Слияние границ ячеек */
+}
+
+th, td {
+ border: 1px solid black; /* Добавление границы к ячейкам */
+}
+.ans {
+  width: 100%;
+}
+
